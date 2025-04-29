@@ -1,9 +1,10 @@
 
 # projeto | Python 
-
-curso de Python de 
+## DIO
+curso de Python Suzano - Python Developer
 ##
  repositórios 
+ https://github.com/diegosalvador/python-dio
 ##
 👌👌😎
 
